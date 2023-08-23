@@ -3,7 +3,6 @@
 <div align=center>
 
 # 👩🏻‍💻
-
 <a href="https://myeonghyejin.notion.site/df807f03ab8f4c29a6fe46dd2bed23e6?pvs=4"><img src="https://img.shields.io/badge/Projects-ffe2f3?style=badge&logo=GitHub&logoColor=black"/></a>
 
 
